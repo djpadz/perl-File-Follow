@@ -1,0 +1,11 @@
+*
+!.gitignore
+!Changes
+!Makefile.PL
+!MANIFEST
+!README
+!LICENSE
+!lib
+!lib/**
+!t
+!t/**
